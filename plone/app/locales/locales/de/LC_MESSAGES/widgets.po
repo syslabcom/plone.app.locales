@@ -269,8 +269,8 @@ msgid "Does your bundle contain any RequireJS or LESS files?"
 msgstr "Enthält das Bundle RequireJS oder LESS?"
 
 #: ./patterns/upload/templates/upload.xml
-msgid "Drag and drop files from your computer onto the area below or click the Browse button."
-msgstr ""
+msgid "Drag and drop files from your computer onto the area below or click the \"Browse\" button."
+msgstr "Klicken und ziehen Sie Dateien von Ihrem Rechner in den Bereich unten oder klicken Sie die \"Browsen\"-Schaltfläche."
 
 #: ./patterns/upload/templates/upload.xml
 msgid "Drop files here..."
